@@ -36,7 +36,7 @@ include('./conn.php');
           <li><a href="time_table.php">Time Table</a></li>
           <li><a href="addtendance_index.php">Attendence Entry</a></li>
           <li><a href="./reg_index.php">New Registration</a></li>
-          <li><a href="../index.html">Logout</a></li>
+          <li><a href="../index.php">Logout</a></li>
         </ol>
       </div>
     </header>
